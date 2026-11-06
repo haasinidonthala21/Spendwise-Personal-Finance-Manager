@@ -35,9 +35,13 @@ delete it (list becomes empty); try adding amount -50 (rejected with "Amount mus
 Run automated checks: `java TestCases`
 
 ## Team Members
-| Name | Roll No. | Role |
-|------|----------|------|
-| | | |
+| Name      | Roll No.   |                               Role                                               |
+|-----------|------------|----------------------------------------------------------------------------------|
+|M.Varshini | 25WH1A05E7 |   SpendWiseApp.java (the UI). Understand how the form, table and buttons work.   |
+|D.Haasini  | 25WH1A05F2 | TransactionManager.java and Transaction.java (the logic). Understand how add,    |
+|           |            |  update and delete work.                                                         |
+|Vaishnavi.C| 25WH1A05H0 | TestCases.java. Run the tests, write up the two test cases and take screenshots. |
+|           |            | GitHub repository, README, and printing the hard copy.                           |
 
 ## Future Scope
 Save/load data to file, monthly budgets, charts by category.
